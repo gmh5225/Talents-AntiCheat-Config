@@ -1,2 +1,2 @@
-# Talents-AntiCheat-Config
-a MineCraft AntiCheat optimization config
+###Talents-AntiCheat-Config
+
