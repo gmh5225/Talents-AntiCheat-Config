@@ -2,29 +2,24 @@
 
 # ⚠️前言 ⚠️
 
-> ## 这永远只是我使用在自己服务器上的配置
+> ## 配置原作者-TalentsRC
 >
-> 可能在其他服务器会有误判，甚至可能不阻止你服务器里面的黑客
+> 原作者弃坑，我通过留下来的遗产接手了这个项目
 > 
-> 遇到任何因为**本配置的绕过**可以给我[提交问题](https://github.com/TalentsDX/Talents-anticheat-config/issues/new/choose)
+> 后续的更新以及问题都是由我来处理
 > 
-> 如果你有问题可以自己修改配置进行改良
+> 如果你遇到配置文件自行调试
 > 
 > （但不要发布或出售并声称是你的原创配置）
 > 
 > ---
-> 如果你是**新手小白服主**不知道怎么安装配置
-> 
->带上友好的态度 [联系我](https://qm.qq.com/cgi-bin/qm/qr?k=R0L6OiGpg-kWrQqN9aLLuVgArLZyGrFg&noverify=0)!
+> 如果你不知道怎么安装配置
 >
->我会**免费**帮助你
+> 动动脑子，这东西不难，替换文件的事情而已
 > 
-> 链接不起作用？
-> 
-> 联系QQ1787766313
-> 
+> QQ联系: 1957976089
 >
-> 邮箱联系(Email) 1787766313@QQ.COM
+> 邮箱联系我(Email) 1957976089@QQ.COM
 
 ---
 
@@ -40,11 +35,14 @@
 
 ### 出自2017-2023的作弊端用户之手
 
+### 现由CraDebug（我）进行后续更新
+
 #### **“别人在倚老卖老但我在以老带新，只为了给名利场刮点清风。”**
 
 ##### [更新日志](https://github.com/TalentsDX/Talents-anticheat-config/blob/main/.github/update-log.md)
 
 ---
+
 <div align="left">
 
 ✨特点✨
@@ -53,9 +51,13 @@
 - 近乎99%汉化的警报消息 
 - 提升反作弊检测速度 
 - 减少反作弊误判
-- 独特的参数调配 
-- 替代那些 [*付费*](https://github.com/TalentsDX/Talents-anticheat-config/blob/main/.github/fuckyoupaidconfig.md) 反作弊配置
+- 独特的参数调配
 - 完全免费
+
+####在此我想对那些付费反作弊配置作者说一声：操你妈
+####没能力写反作弊才拿配置来圈钱你是真的没能力
+####我随随便便拿脚写的配置都能殴打你的**企业级反作弊配置**
+
 ---
  
 <div align="left">
@@ -83,7 +85,7 @@
 - [Themis](https://www.spigotmc.org/resources/themis-anti-cheat-1-17-1-18-1-19-bedrock-support-paper-compatibility-free-optimized.90766/)
 - [Hawk](https://github.com/HawkAnticheat/Hawk)
  ### 一些我会去配置但是我不保证它稳定性的反作弊配置
- （不接受以下反作弊的任何配置问题）
+ （避免使用被作者抛弃的反作弊，因为它们只能检测远古特征）
 - [AAC](https://www.spigotmc.org/resources/aac-advanced-anti-cheat-hack-kill-aura-blocker.6442)
 - [TakaAC](https://www.spigotmc.org/resources/taka-anticheat-takaac-cheap-and-reliable-solution.45167/) 
 - [Horizon](https://www.spigotmc.org/resources/horizon-powerful-cheat-detection-in-new-era-1-8-1-12-1-13-1-14.65830/) 
