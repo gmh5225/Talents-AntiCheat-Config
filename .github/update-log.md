@@ -1,3 +1,11 @@
+# 20230929 - 重新产卵
+
+- ReadMe Update
+- Add Talents-Anticheat-Config 0715 base
+- Matrix Config Update
+
+
+
 # 20230713 - 正式编写更新日志
 
 - 🔧修复 Matrix 警报消息的一处异常
