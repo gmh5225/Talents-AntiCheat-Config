@@ -119,9 +119,14 @@
 ### 🔧如何安装🔧
 
 #### 1.把仓库下载到本地
-<img src=".github/assets/1-download.png" align="center" id="header" width="250">
+<img src=".github/assets/1-download.png" align="center" id="header" width="400">
+
 ####  2.替换掉原先反作弊的配置(yml)文件。
+
+
 ####  3.重新启动你的服务器。
+
+
 #### 4.享受反作弊！
 
 ---
