@@ -52,7 +52,7 @@
 
 #### **“别人在倚老卖老但我在以老带新，只为了给名利场刮点清风。”**
 
-##### [更新日志](https://github.com/TalentsDX/Talents-anticheat-config/blob/main/.github/update-log.md)
+##### [更新日志](https://github.com/CkaDebug/Talents-anticheat-config/blob/main/.github/update-log.md)
 
 ---
 
