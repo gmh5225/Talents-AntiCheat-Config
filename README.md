@@ -2,9 +2,9 @@
 
 # ⚠️前言 ⚠️
 
-> ## 配置原作者-TalentsRC
+> ## 现配置作者-CkaDebug
 >
-> 原作者弃坑，我通过留下来的遗产接手了这个项目
+> 原作者(TalentsRC)弃坑，我通过留下来的遗产接手了这个项目
 > 
 > 后续的更新以及问题都是由我来处理
 > 
@@ -140,7 +140,7 @@
 
 - [MatrixChecks](https://github.com/Encode42/MatrixChecks)
 
-- CookieAntiCheat（公开版本）
+- TAC v1/v2/v3/v4 (R.I.P)
 
 - Matrix7Checks （R.I.P）
 
